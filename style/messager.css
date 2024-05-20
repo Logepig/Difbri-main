@@ -1,0 +1,67 @@
+.friends_block {
+    width: 390px;
+    height: 868px;
+    margin-left: 162px;
+}
+
+.friend-list_text {
+    width: 224.73px;
+    height: 27px;
+    margin-top: 31px;
+    margin-left: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28.8px;
+    color: black;
+}
+
+.short_profile_info {
+margin-top: 80px;
+display: flex;
+width: 390px;
+height: 52px;
+}
+
+.short_text {
+    width: 215px;
+    height: 27px;
+    margin-left: 20px;
+    margin-top: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.chat {
+    margin-left: 125px;
+}
+.full_block {
+    display: flex;
+    margin-top: 158px;
+}
+
+.chatting_window_block {
+    width: 1176.27px;
+    height: 868px;
+    margin-top: 42px;
+    margin-left: 40px;
+}
+
+.Higher_block {
+    display: flex;
+    gap: 15px;
+}
+
+.Lower_block {
+    margin-top: 700px;
+    display: flex;
+    gap: 15px;
+}
+
+.chatting_window {
+    width: 896px;
+    height: 52px;
+    border-radius: 10px;
+}
