@@ -71,14 +71,14 @@ color: #626D7A;
     height: 654px;
     margin-top: 114px;
     margin-left: 231px;
+    border: 0.5px #919399 solid;
 }
 
 .photo_nav {
     width: 1411px;
     height: 59.93px;
-    margin-left: 20px;
-    border: black 0.5px inherit;
     display: flex;
+    border: 0.5px #919399 solid;
 }
 
 .photo_nav_text {
@@ -100,8 +100,9 @@ color: #626D7A;
 }
 
 .photo_block {
-    width: 459.01px;
-    height: 529.11px;
+    border: 0.5px #919399 solid;
+    width: 439.01px;
+    height: 509.11px;
     margin-top: 79px;
     margin-left: 20px;
 }

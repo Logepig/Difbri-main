@@ -49,6 +49,7 @@ gap: 5px;
     height: 868px;
     margin-top:231px;
     margin-left: 313px;
+    border: 0.5px #919399 solid;
 }
 
 .search_block {
@@ -90,6 +91,7 @@ gap: 5px;
 .quation_block {
     display: flex;
     gap: 45px;
+    
 }
 
 .Large_text {
@@ -223,6 +225,10 @@ color: #919399;
         border-radius: 10px;
         padding: 16px;
         height: 59px;
-        border-color: #367AFF;
         margin-top: 40px;
+        display: inline-flex;
+        flex-wrap: nowrap;
+        box-sizing: border-box;
+     border: 2px solid #367AFF;
     }
+
