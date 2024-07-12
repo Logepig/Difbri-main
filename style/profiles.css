@@ -177,3 +177,22 @@ color: #4973FF;
     visibility: visible;
     opacity: 1;
     }
+
+.input_photo {
+    display: none;
+}
+
+.add_photo_button {
+    margin-left: 1360px;
+    margin-top: 30px;
+}
+
+.post_photo {
+    border: 1px, solid;
+    border-radius: 8px;
+}
+
+.flex_block {
+    display: flex;
+    gap: 50px;
+}

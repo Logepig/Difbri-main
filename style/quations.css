@@ -1,0 +1,53 @@
+.block_for_quations {
+    width: 1310px;
+    height: 868px;
+    margin-top:231px;
+    margin-left: 263px;
+    border: 0.5px #919399 solid;
+}
+
+.head_quation_block {
+    width: 1310px;
+    height: 168px;
+    border-bottom: 0.5px #919399 solid;
+}
+
+.answer {
+    width: 1037px;
+    height: 130.46px;
+    margin-top: 45px;
+    margin-left: 108px;
+    border: 0.5px #919399 solid;
+    display: flex;
+    gap: 45px;
+}
+
+.answer_text {
+    width: 1300.52px;
+    height: 31.19px;
+    margin-top: 30.79px;
+    margin-right: 560px;
+    font-size: 22.09px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 31.19px;
+}
+
+.head_quation {
+    width: 1037px;
+    height: 50.46px;
+    margin-left: 128px;
+    display: flex;
+    gap: 45px;
+}
+
+.full_text {
+    color: black;
+    margin-top: 15px;
+    margin-left: 108px;
+    font-size: 22px;
+    font-weight: 300;
+}
+
+
+
+

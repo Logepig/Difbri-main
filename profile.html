@@ -32,13 +32,14 @@
                 <p class="photo_nav_text">Фото</p>
                 <button class="photo_search_icon"><img src="/img/search_icon.png"></button>
             </div>
+            <div class="flex_block">
             <div class="photo_block">
                 <ul class="header_comment_block">
                     <li><img src="/img/Ellipse 1.png"></li>
                     <li><p class="header_comment_text">Kalinovskamu Kastusya</p></li>
                     <li><button><img src="/img/photo_info.png"></button></li>
                 </ul>
-                <img src="/img/post_photo.png">
+                <img src="/img/post_photo.png" class="post_photo">
                 <ul class="comment_block">
                     <li><button class="like"><img src="/img/like.png"></button></li>
                     <li><button class="share"><img src="/img/share.png"></button></li>
@@ -48,6 +49,9 @@
                     </ul></li>
                 </ul>
             </div>
+        </div>
+            <input type="file" multiple id="file-upload" class="input_photo">
+            <button class="add_photo_button" onclick="document.getElementById('file-upload').click()"><img src="/img/plus.svg"></button>
         </div>
 
         <div class="modal_redaction" id="redaction-modal-block">
