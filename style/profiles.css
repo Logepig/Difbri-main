@@ -68,7 +68,7 @@ color: #626D7A;
 
 .photos_blocks {
     width: 1411px;
-    height: 654px;
+    min-height: 654px;
     margin-top: 114px;
     margin-left: 231px;
     border: 0.5px #919399 solid;

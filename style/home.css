@@ -46,7 +46,7 @@ gap: 5px;
 
 .bg_block {
     width: 1310px;
-    height: 868px;
+    min-height: 868px;
     margin-top:231px;
     margin-left: 313px;
     border: 0.5px #919399 solid;
