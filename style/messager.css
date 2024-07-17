@@ -1,5 +1,6 @@
 .friends_block {
-    border: 0.5px #919399 solid;
+    border: 0.3px #919399 solid;
+    border-radius: 5px;
     width: 410px;
     height: 668px;
     margin-left: 162px;
@@ -23,16 +24,15 @@ margin-top: 80px;
 display: flex;
 width: 390px;
 height: 52px;
-border: 0.5px #919399 solid;
 }
 
-.short_text {
+.short_text_messanger {
     width: 215px;
     height: 27px;
     margin-left: 20px;
     margin-top: 5px;
-    font-family: robot;
-    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 550;
     font-size: 18px;
     line-height: 27px;
 }
@@ -49,26 +49,25 @@ border: 0.5px #919399 solid;
     width: 976.27px;
     height: 668px;
     margin-left: 40px;
-    border: 0.5px #919399 solid;
+    border: 0.3px #919399 solid;
+    border-radius: 5px;
 }
 
 .Higher_block {
-    border: 0.5px #919399 solid;
     display: flex;
     gap: 15px;
 }
 
 .Lower_block {
-    border: 0.5px #919399 solid;
-    border-radius: 10px;
     margin-top: 579px;
-    border-radius: 2px;
     display: flex;
     gap: 15px;
 }
 
 .chatting_window {
-    width: 936px;
+    margin-left: 25px;
+    width: 761px;
     height: 52px;
-    border-radius: 2px;
+    border: 0.3px, #919399, solid;
+    border-radius: 16px;
 }

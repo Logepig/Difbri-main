@@ -71,14 +71,14 @@ color: #626D7A;
     min-height: 654px;
     margin-top: 114px;
     margin-left: 231px;
-    border: 0.5px #919399 solid;
 }
 
 .photo_nav {
     width: 1411px;
     height: 59.93px;
     display: flex;
-    border: 0.5px #919399 solid;
+    border: 0.3px #919399 solid;
+    border-radius: 11.24px;
 }
 
 .photo_nav_text {
@@ -100,14 +100,15 @@ color: #626D7A;
 }
 
 .photo_block {
-    border: 0.5px #919399 solid;
+    border: 0.3px, #DCE1E6 solid;
     width: 439.01px;
     height: 509.11px;
-    margin-top: 79px;
-    margin-left: 20px;
+    margin-top: 39px;
 }
 
 .header_comment_block {
+    margin-top: 3px;
+    margin-left: 2px;
     display: flex;
 }
 
@@ -188,11 +189,13 @@ color: #4973FF;
 }
 
 .post_photo {
-    border: 1px, solid;
-    border-radius: 8px;
+margin-top: 3px;
+width: 425px;
+height: 425px;
+margin-left: 5px;
 }
 
 .flex_block {
     display: flex;
-    gap: 50px;
+    gap: 45px;
 }
